@@ -1,5 +1,5 @@
 ### Hi there 👋
-**shipsnipe/Shipsnipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shipsnipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m a retired marine/mechanical engineer managing ship maintenance & repair. I have used spreadsheets to manage
   several aspects of the projects that I have worked.
